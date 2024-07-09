@@ -1,0 +1,14 @@
+.inspiration-subtitle {
+  margin: 21.34px 0 42.67px;
+}
+.inspiration-video {
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inspiration-video iframe {
+  border-radius: 16px;
+  padding: 28.45px;
+}
