@@ -33,10 +33,12 @@ body {
   line-height: 32px;
 }
 .learn-more-btn {
-  color: var(--primary-color);
+  color: var(--primary-color-opacity);
   font-size: 17.78px;
   font-weight: 600;
   line-height: 20.45px;
+  padding: 10.67px 17.78px;
+  border: 1px solid rgb(13, 19, 33);
 }
 .prog-Lang-name {
   color: var(--primary-color);
@@ -44,6 +46,12 @@ body {
   font-weight: 800;
   line-height: 32px;
 }
+main section {
+  margin: 69.33px 133.33px 76.44px;
+}
 .border {
   border: 2px solid #f00;
+}
+.center-align {
+  text-align: center;
 }
