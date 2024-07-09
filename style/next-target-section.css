@@ -1,0 +1,17 @@
+.next-target-skill-container {
+  display: flex;
+  align-items: center;
+  padding: 35.56px;
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+}
+.next-target-skill-container img {
+  margin-right: 21.33px;
+}
+.next-target-skill-subtitle {
+  margin: 7.11px 0 21.33px;
+}
+.NodeJs {
+  margin: 21.33px 0;
+}
