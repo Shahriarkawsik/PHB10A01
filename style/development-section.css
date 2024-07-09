@@ -1,11 +1,14 @@
 .web-development-section {
   /* padding: 35.56px 43.11px; */
   /* padding: 71.11px 86.22px; */
-  background: rgba(13, 19, 33, 0.02);
+  background: rgba(13, 19, 33, 0.04);
   border-radius: 16px;
 }
 .development-subtitle {
   margin: 21.33px 0 42.67px;
+}
+.development-section {
+  margin-bottom: 71.11px;
 }
 .development-subsection {
   display: flex;
@@ -17,6 +20,7 @@
     rgb(255, 255, 255),
     rgba(255, 255, 255, 0) 100%
   );
+  padding: 17.78px;
 }
 .development-subsection img {
   width: 213.33px;
