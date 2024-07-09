@@ -1,0 +1,29 @@
+.target-skills {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 21.33px;
+}
+.target-skill {
+  padding: 35.56px;
+  border-radius: 16px;
+}
+.html {
+  background: rgba(255, 76, 30, 0.05);
+}
+.css {
+  background: rgba(0, 76, 232, 0.05);
+}
+.JavaScript {
+  background: rgba(255, 223, 0, 0.05);
+}
+.target-skill-name {
+  margin: 21.33px 0 7.11px;
+}
+.target-skill-extend {
+  margin-top: 21.33px;
+  color: var(--primary-color);
+  font-size: 14.22px;
+  font-weight: 700;
+  line-height: 16.89px;
+  text-decoration-line: underline;
+}
