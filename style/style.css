@@ -35,13 +35,20 @@ body {
 }
 .learn-more-btn {
   color: var(--primary-color-opacity);
-  font-size: 17.78px;
+  /* font-size: 17.78px;
   font-weight: 600;
-  line-height: 20.45px;
-  padding: 10.67px 17.78px;
+  line-height: 20.45px; */
   border: 1px solid rgb(13, 19, 33);
   cursor: pointer;
   border-radius: 5px;
+  padding: 10.67px 17.78px;
+}
+.learn-more-btn a {
+  color: var(--primary-color-opacity);
+  font-size: 17.78px;
+  font-weight: 500;
+  line-height: 20.45px;
+  text-decoration: none;
 }
 .prog-Lang-name {
   color: var(--primary-color);

@@ -24,10 +24,13 @@
 }
 .target-skill-extend {
   margin-top: 21.33px;
+  text-decoration-line: underline;
+  cursor: pointer;
+}
+.target-skill-extend a {
   color: var(--primary-color);
   font-size: 14.22px;
   font-weight: 700;
   line-height: 16.89px;
-  text-decoration-line: underline;
-  cursor: pointer;
+  text-decoration: none;
 }
