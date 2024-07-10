@@ -19,6 +19,9 @@
 .target-skill-name {
   margin: 21.33px 0 7.11px;
 }
+.target-skill-subtitle{
+  text-align: justify;
+}
 .target-skill-extend {
   margin-top: 21.33px;
   color: var(--primary-color);
