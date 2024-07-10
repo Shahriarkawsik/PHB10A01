@@ -40,6 +40,8 @@ body {
   line-height: 20.45px;
   padding: 10.67px 17.78px;
   border: 1px solid rgb(13, 19, 33);
+  cursor: pointer;
+  border-radius: 5px;
 }
 .prog-Lang-name {
   color: var(--primary-color);

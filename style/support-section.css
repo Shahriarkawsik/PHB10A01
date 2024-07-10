@@ -1,11 +1,7 @@
 .support-section {
   height: 278.22px;
   border-radius: 16px;
-  background: linear-gradient(
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 0.2),
-      rgba(0, 0, 0, 0.2)
-    ),
+  background-image: radial-gradient(rgba(0, 0, 0, 0.6), rgba(59, 51, 51, 0.6)),
     url(../assets/handshake.jpg);
   background-position: center;
   background-size: cover;
@@ -32,6 +28,7 @@
   font-weight: 600;
   line-height: 20.45px;
   padding: 15px 17.78px;
+  cursor: pointer;
 }
 .support-section-input input[type="text"],
 .support-section-input input[type="submit"] {

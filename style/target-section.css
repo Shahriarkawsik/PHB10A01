@@ -19,7 +19,7 @@
 .target-skill-name {
   margin: 21.33px 0 7.11px;
 }
-.target-skill-subtitle{
+.target-skill-subtitle {
   text-align: justify;
 }
 .target-skill-extend {
@@ -29,4 +29,5 @@
   font-weight: 700;
   line-height: 16.89px;
   text-decoration-line: underline;
+  cursor: pointer;
 }

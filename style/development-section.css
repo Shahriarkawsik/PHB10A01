@@ -7,9 +7,10 @@
 }
 .development-section {
   margin-bottom: 71.11px;
-  padding: 71.11px 0;
+  padding: 51.11px 0;
 }
 .development-subsection {
+  padding: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;

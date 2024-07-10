@@ -26,6 +26,7 @@
 .banner-btn {
   background-color: var(--primary-color);
   padding: 18.67px 21.33px;
+  border-radius: 8px;
 }
 .banner-btn a {
   text-decoration: none;
