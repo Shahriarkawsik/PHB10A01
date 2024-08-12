@@ -1,7 +1,6 @@
 .banner-section {
   text-align: center;
-  width: 1263px;
-  /* width: 1280px; */
+  width: 100%;
   height: 579.56px;
   background: url(../assets/hero-bg.png);
   background-position: center;
